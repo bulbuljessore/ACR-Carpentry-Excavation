@@ -1,0 +1,15 @@
+ACR Carpentry & Excavation - WEBP image asset package
+
+Included files:
+- 01_homepage_mockup.webp — 1024x1536
+- 02_logo_acr.webp — 182x114
+- 03_hero_excavator.webp — 1672x941
+- 04_carpentry_service_deck.webp — 1122x1402
+- 05_excavation_service_tight_access.webp — 1122x1402
+- 06_project_deck_build.webp — 1448x1086
+- 07_project_pergola.webp — 1448x1086
+- 08_project_tight_access_excavation.webp — 1448x1086
+- 09_project_footing_excavation.webp — 1448x1086
+- 10_project_landscaping_prep.webp — 1448x1086
+- 11_project_cladding.webp — 1448x1086
+- 12_about_alex_portrait.webp — 1086x1448
